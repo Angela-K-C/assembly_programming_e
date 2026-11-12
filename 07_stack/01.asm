@@ -4,7 +4,7 @@ section .text
 _start:
     mov rax, 100
     mov rbx, 200
-
+    
     push rax
     push rbx
     nop
